@@ -18,6 +18,8 @@ Profit!
 ## Список модификаций
 - [Item Alchemy](https://modrinth.com/mod/item-alchemy)
 - [Iron Chests](https://modrinth.com/mod/iron-chests-fabric)
+- [Applied Energistics 2](https://modrinth.com/mod/ae2) - только для некоторых фраз.
+- [Sodium](https://modrinth.com/mod/sodium)
 
 ## Лицензирование
 
