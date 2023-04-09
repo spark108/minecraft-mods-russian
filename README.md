@@ -1,6 +1,8 @@
 # Spark108 Russian Language
 [![MIT License](https://img.shields.io/github/license/LambdAurora/LambDynamicLights?style=flat-square)](https://raw.githubusercontent.com/spark108/minecraft-mods-russian/main/License)
 ![Texture](https://img.shields.io/badge/features-TEXTURE-brightgreen)
+![Texture](https://img.shields.io/badge/client-1.19.3-brightgreen)
+![Texture](https://img.shields.io/badge/client-1.19.4-brightgreen)
 
 Пакет текстур содержит русский язык для некоторых модов.
 
