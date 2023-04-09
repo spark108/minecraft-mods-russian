@@ -11,3 +11,7 @@ Profit!
 ## Список модификаций
 - [Item Alchemy](https://modrinth.com/mod/item-alchemy)
 - [Iron Chests](https://modrinth.com/mod/iron-chests-fabric)
+
+## Лицензирование
+
+MIT License
